@@ -2,8 +2,6 @@
 ### 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sukeun319)](https://solved.ac/sukeun319)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=U-keun&show_icons=true&theme=tokyonight)
 <!--
 **U-Keun/U-keun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
