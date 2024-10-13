@@ -5,6 +5,7 @@ Meow
 ### Studying :pencil2: 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> 
 
+[![U-Keun's GitHub stats](https://github-readme-stats.vercel.app/api?username=U-Keun)](https://github.com/anuraghazra/github-readme-stats)
 
 ### PS
 [![Solved.ac
